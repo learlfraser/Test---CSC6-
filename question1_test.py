@@ -20,12 +20,12 @@ def question1():
     question1()
 
 def question2():
-  print("Is Noah Cool? ")
+  print("Is Jacob Cool? ")
   ans2 = input()
   if ans2 == "no":
-    print("Correct")
+    print("rude")
   elif ans2 == "yes":
-    print("Rude")
+    print("Correct")
   else:
     print("How are you not sure?")
     question1()
